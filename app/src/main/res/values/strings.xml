@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PerRempahan</string>
+    <string name="description">deskripsi</string>
+    <string name="detail">detail</string>
+    <string name="rempah">rempah</string>
+    <string name="action_setting">action_setting</string>
+    <string name="about">about</string>
+</resources>
